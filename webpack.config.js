@@ -42,6 +42,9 @@ let baseConfig = {
       },
     ],
   },
+  resolve: {
+    extensions: ['.js', '.jsx', '.json'],
+  },
   output: {
     path: pJoin('dist'),
     publicPath: '/',

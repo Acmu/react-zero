@@ -27,3 +27,10 @@ touch .eslintignore .eslintrc.js .prettierignore .prettierrc.js .babelrc
 ```
 
 ## 写代码
+
+将添加的文件的代码，复制到文件中
+
+## Todo
+
+1. 优化 Input vendor 的名称
+2. 实现热更新
